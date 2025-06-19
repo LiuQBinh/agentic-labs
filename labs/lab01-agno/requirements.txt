@@ -1,0 +1,7 @@
+agno
+yfinance
+anthropic 
+sqlalchemy 
+duckduckgo-search
+openai
+fastapi[standard]

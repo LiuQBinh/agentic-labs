@@ -1,4 +1,4 @@
-"use client"
+'use client'
 import Sidebar from '@/components/playground/Sidebar/Sidebar'
 import { ChatArea } from '@/components/playground/ChatArea'
 import { Suspense } from 'react'
